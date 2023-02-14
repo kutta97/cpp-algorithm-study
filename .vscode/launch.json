@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Lldb debug",
+            "program": "${fileDirname}/${fileBasenameNoExtension}.out",
+            "args": [],
+            "preLaunchTask": "C++ bulid for g++",
+            "stdio": [null,null,null],
+            "terminal": "integrated",
+            "cwd": "${workspaceRoot}"
+        }
+    ]
+}

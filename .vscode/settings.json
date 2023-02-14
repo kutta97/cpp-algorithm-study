@@ -1,0 +1,15 @@
+{
+    "C_Cpp.clang_format_style": "{ IndentWidth: 4, ColumnLimit: 80 }",  
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Darcula",
+    "editor.tabSize": 4,
+    "git.confirmSync": false,
+    "files.associations": {
+        "iosfwd": "cpp",
+        "vector": "cpp"
+    },
+}
